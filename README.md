@@ -6,7 +6,7 @@ We provide here a series of notebooks developed as an empirical comparative asse
 
 We use a selection of categorical variables from household survey data from Indonesia and Malawi to predict the poverty status of households – a binary class with labels “Poor” and “Non-poor”. Various “out-of-the-box” classification algorithms (no regression algorithms) are used: logistic regression, linear discriminant analysis, k-nearest neighbors, decision trees, random forests, naïve Bayes, support vector machine, extreme gradient boosting, multilayer perceptron, and deep learning. More complex solutions including ensembling, deep factorization machines, and automated machine learning are also implemented. Models are compared across six metrics (accuracy, recall, precision, f1, cross entropy, ROC AUC, and Cohen-Kappa). An analysis of misclassified observations is conducted.
 
-The project report is provided in the report folder (ML_Classification_Poverty_Comparative_Assessment_v01.pdf).
+The project report is provided in the `report` folder (ML_Classification_Poverty_Comparative_Assessment_v01.pdf).
 
 This project was funded by Grant TF 0A4534 of the World Bank Knowledge for Change Program. 
 
@@ -19,7 +19,7 @@ The prerequisites for this project are:
 
 ## Recommended software:
 
-Although it is not required, we recommend using Anaconda to manage your Python environment for this project. Other configurations, e.g., using `virtualenv` are not tested. Anaconda is free, open-source software distrbuted by Continuum Analytics. [Download Anaconda for your operating system here](https://www.continuum.io/downloads). Instructions for environment setup in this README are given for Anaconda.
+Although it is not required, we recommend using Anaconda to manage your Python environment for this project. Other configurations, e.g., using `virtualenv` are not tested. Anaconda is free, open-source software distributed by Continuum Analytics. [Download Anaconda for your operating system here](https://www.continuum.io/downloads). Instructions for environment setup in this README are given for Anaconda.
 
 ## Setup:
 
@@ -101,7 +101,7 @@ The minimum that you need for most notebooks are the 2012 surveys that are conta
 
 1. **Run the rest of the notebooks for a first time.** After running the data preparation notebook, run the Logistic Regression notebooks first. The notebooks for all other algorithms up to notebooks `12+` compare results to the logistic regression baseline model, so these models must be generated before running other algorithm notebooks. Notebooks `12+` should be run in relative order as well.
 
-1. **Explore.** After all of the notebooks have bee run once in the proper order, all neccessary models and files will have been created and saved, so notebooks can be run in any order. Model files will exist under the `models/` directory, and processed data will exist under the `data/processed/` directory.
+1. **Explore.** After all of the notebooks have bee run once in the proper order, all necessary models and files will have been created and saved, so notebooks can be run in any order. Model files will exist under the `models/` directory, and processed data will exist under the `data/processed/` directory.
 
 ## Notes:
 
