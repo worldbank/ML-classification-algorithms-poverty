@@ -8,6 +8,8 @@ We use a selection of categorical variables from household survey data from Indo
 
 The project report is provided in the `report` folder (ML_Classification_Poverty_Comparative_Assessment_v01.pdf).
 
+As part of the project, a Data Science competition was also organized (on DrivenData platform), challenging data scientists to build poverty prediction models for three countries. Participants in the competition were not informed of the origin of the three (obfuscated) survey datasets used for the competition. One of the three datasets was from the Malawi Integrated Household Survey 2010. We provide in this repo an adapted version of the scripts produced by the 4 winners of the competition (the adaptation was made to make the scripts run on a de-obfuscated version of the dataset). 
+
 This project was funded by Grant TF 0A4534 of the World Bank Knowledge for Change Program. 
 
 

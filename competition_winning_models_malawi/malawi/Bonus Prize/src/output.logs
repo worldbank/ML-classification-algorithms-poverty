@@ -1,0 +1,126 @@
+2018-04-09 15:02:38,975: Bayesian optimization results will be stored in xgbBO_A_res_lgb_optimization_2018-04-09 15:02:38.975388.dict after training...
+2018-04-09 15:02:53,396: lgb loss: 0.278039498066
+2018-04-09 15:03:07,422: lgb loss: 0.286224208508
+2018-04-09 15:15:00,940: Bayesian optimization results will be stored in xgbBO_A_res_lgb_optimization_2018-04-09 15:15:00.939955.dict after training...
+2018-04-09 15:21:34,784: Bayesian optimization results will be stored in xgbBO_A_res_lgb_optimization_2018-04-09 15:21:34.784471.dict after training...
+2018-04-09 15:21:53,762: lgb loss: 0.29215943796
+2018-04-09 15:57:33,551: Bayesian optimization results will be stored in xgbBO_A_res_lgb_optimization_2018-04-09 15:57:33.551092.dict after training...
+2018-04-09 15:57:45,996: lgb loss: 0.287361484073
+2018-04-09 22:04:19,801: Bayesian optimization results will be stored in xgbBO_A_res_lgb_optimization_2018-04-09 22:04:19.801649.dict after training...
+2018-04-09 22:04:41,299: lgb loss: 0.293951509401
+2018-04-09 22:12:00,400: Bayesian optimization results will be stored in xgbBO_A_res_lgb_optimization_2018-04-09 22:12:00.400784.dict after training...
+2018-07-20 16:53:43,859: Bayesian optimization results will be stored in xgbBO_mwi_res_lgb_optimization_2018-07-20 16:53:43.858950.dict after training...
+2018-07-20 17:11:54,000: Bayesian optimization results will be stored in xgbBO_mwi_res_lgb_optimization_2018-07-20 17:11:54.000381.dict after training...
+2018-07-20 17:12:03,091: lgb loss: 0.28157456528696023
+2018-07-20 17:12:15,439: lgb loss: 0.2909940953941416
+2018-07-20 17:12:24,001: lgb loss: 0.27555141847031517
+2018-07-20 17:12:32,304: lgb loss: 0.28458533894082955
+2018-07-20 17:15:18,579: Bayesian optimization results will be stored in xgbBO_mwi_res_lgb_optimization_2018-07-20 17:15:18.579131.dict after training...
+2018-07-20 17:15:27,626: lgb loss: 0.2832115168626531
+2018-07-20 17:15:38,274: lgb loss: 0.27970016635132156
+2018-07-20 17:15:47,494: lgb loss: 0.2890499387964692
+2018-07-20 17:16:01,782: lgb loss: 0.27939522521947896
+2018-07-20 17:16:57,271: Bayesian optimization results will be stored in xgbBO_mwi_res_lgb_optimization_2018-07-20 17:16:57.271554.dict after training...
+2018-07-20 17:17:04,185: lgb loss: 0.29087420947991344
+2018-07-20 17:17:13,117: lgb loss: 0.28329792174933727
+2018-07-20 17:17:23,402: lgb loss: 0.2798663474522174
+2018-07-20 17:17:32,775: lgb loss: 0.2850948050552055
+2018-07-20 17:17:33,286: Fragment [1. Training bayesian opts for lgb model.] done in 36.02 s
+
+2018-07-20 17:17:33,286: Bayesian optimization results will be stored in xgbBO_mwi_res_lr_optimization_2018-07-20 17:17:33.286869.dict after training...
+2018-07-20 17:17:40,439: lr loss: 0.2941839004207182
+2018-07-20 17:17:56,227: lr loss: 0.2844012059684578
+2018-07-20 17:17:59,610: lr loss: 0.6237483736257268
+2018-07-20 17:18:17,424: lr loss: 0.2875295761185605
+2018-07-20 17:18:17,992: Fragment [2. Training bayesian opts for lr model.] done in 44.71 s
+
+2018-07-20 17:18:17,992: Bayesian optimization results will be stored in xgbBO_mwi_res_nn_optimization_2018-07-20 17:18:17.992438.dict after training...
+2018-07-20 17:18:38,603: nn loss: 0.28291181583890573
+2018-07-20 17:18:47,307: nn loss: 0.345770092341806
+2018-07-20 17:18:59,689: nn loss: 0.7479778874608373
+2018-07-20 17:19:31,185: nn loss: 0.28818825535075665
+2018-07-20 17:19:34,705: Fragment [3. Training bayesian opts for nn model.] done in 76.71 s
+
+2018-07-20 17:19:34,705: Bayesian optimization results will be stored in xgbBO_mwi_res_xgb_optimization_2018-07-20 17:19:34.705642.dict after training...
+2018-07-20 17:20:24,919: xgb loss: 0.2937348436848487
+2018-07-20 17:21:08,470: xgb loss: 0.2835658968918368
+2018-07-20 17:21:25,737: xgb loss: 0.3114322238540503
+2018-07-20 17:21:52,094: xgb loss: 0.27943254371309434
+2018-07-20 17:21:52,668: Fragment [4. Training bayesian opts for xgb model.] done in 137.96 s
+
+2018-07-20 17:21:52,668: Bayesian optimization results will be stored in xgbBO_mwi_res_rf_optimization_2018-07-20 17:21:52.668442.dict after training...
+2018-07-20 17:21:57,708: rf loss: 0.5394241810919428
+2018-07-20 17:22:02,430: rf loss: 0.393331015979418
+2018-07-20 17:22:12,706: rf loss: 0.42805103881529905
+2018-07-20 17:22:23,964: rf loss: 0.5365379140090353
+2018-07-20 17:22:28,105: Fragment [5. Training bayesian opts for rf model.] done in 35.44 s
+
+2018-07-20 17:22:28,105: Fragment [Start bayesian optimization and generation of optimal sub-models for country mwi] done in 330.83 s
+
+2018-07-20 17:27:46,763: Bayesian optimization results will be stored in xgbBO_mwi_res_lgb_optimization_2018-07-20 17:27:46.763056.dict after training...
+2018-07-20 17:27:55,343: lgb loss: 0.28501242243919916
+2018-07-20 17:28:05,793: lgb loss: 0.2803614853414841
+2018-07-20 17:28:13,557: lgb loss: 0.29507284428866115
+2018-07-20 17:28:21,507: lgb loss: 0.28599055248823935
+2018-07-20 17:28:22,023: Fragment [1. Training bayesian opts for lgb model.] done in 35.26 s
+
+2018-07-20 17:28:22,023: Bayesian optimization results will be stored in xgbBO_mwi_res_lr_optimization_2018-07-20 17:28:22.023853.dict after training...
+2018-07-20 17:28:39,201: lr loss: 0.28008959649730675
+2018-07-20 17:28:54,942: lr loss: 0.27857117254443603
+2018-07-20 17:28:57,931: lr loss: 0.6237483736257268
+2018-07-20 17:29:16,017: lr loss: 0.2875295761185605
+2018-07-20 17:29:17,639: Fragment [2. Training bayesian opts for lr model.] done in 55.62 s
+
+2018-07-20 17:29:17,639: Bayesian optimization results will be stored in xgbBO_mwi_res_nn_optimization_2018-07-20 17:29:17.639541.dict after training...
+2018-07-20 17:29:28,248: nn loss: 0.3264461959121838
+2018-07-20 17:29:48,442: nn loss: 0.31500692311781614
+2018-07-20 17:29:52,158: nn loss: 0.30625453344263154
+2018-07-20 17:30:00,426: nn loss: 0.32923330640251736
+2018-07-20 17:30:00,900: Fragment [3. Training bayesian opts for nn model.] done in 43.26 s
+
+2018-07-20 17:30:00,900: Bayesian optimization results will be stored in xgbBO_mwi_res_xgb_optimization_2018-07-20 17:30:00.900401.dict after training...
+2018-07-20 17:30:13,671: xgb loss: 0.30661125999062405
+2018-07-20 17:30:39,456: xgb loss: 0.30562068939163267
+2018-07-20 17:31:51,888: xgb loss: 0.27625233690755535
+2018-07-20 17:33:02,513: xgb loss: 0.2949945123523146
+2018-07-20 17:33:03,109: Fragment [4. Training bayesian opts for xgb model.] done in 182.21 s
+
+2018-07-20 17:33:03,109: Bayesian optimization results will be stored in xgbBO_mwi_res_rf_optimization_2018-07-20 17:33:03.109629.dict after training...
+2018-07-20 17:33:08,095: rf loss: 0.3970806989122597
+2018-07-20 17:33:12,998: rf loss: 0.3897529501623339
+2018-07-20 17:33:18,232: rf loss: 0.5496647305425912
+2018-07-20 17:33:26,444: rf loss: 0.3941258460598888
+2018-07-20 17:33:26,810: Fragment [5. Training bayesian opts for rf model.] done in 23.70 s
+
+2018-07-20 17:33:26,810: Fragment [Start bayesian optimization and generation of optimal sub-models for country mwi] done in 340.05 s
+
+2018-07-20 17:33:34,314: lgb loss: 0.28599055248823935
+2018-07-20 17:33:43,376: lgb loss: 0.29202470182092277
+2018-07-20 17:33:44,725: Fragment [1. Generating meta predictions for lgb model.] done in 17.91 s
+
+2018-07-20 17:34:02,671: lr loss: 0.2875295761185605
+2018-07-20 17:34:05,744: lr loss: 0.6228916485577852
+2018-07-20 17:34:06,287: Fragment [2. Generating meta predictions for lr model.] done in 21.56 s
+
+2018-07-20 17:34:09,096: nn loss: 0.3231656665466594
+2018-07-20 17:34:18,384: nn loss: 0.32923330640251736
+2018-07-20 17:34:18,865: Fragment [3. Generating meta predictions for nn model.] done in 12.58 s
+
+2018-07-20 17:35:28,570: xgb loss: 0.2949945123523146
+2018-07-20 17:36:42,992: xgb loss: 0.2795034998613205
+2018-07-20 17:36:44,947: Fragment [4. Generating meta predictions for xgb model.] done in 146.08 s
+
+2018-07-20 17:36:50,615: rf loss: 0.3941258460598889
+2018-07-20 17:36:57,262: rf loss: 0.5481794976634418
+2018-07-20 17:36:58,666: Fragment [5. Generating meta predictions for rf model.] done in 13.72 s
+
+2018-07-20 17:36:58,666: Fragment [Generate inference using the top N models based on bayesian OOF score for country mwi] done in 211.86 s
+
+2018-07-20 17:36:58,698: Fragment [Performing training and meta predictions for country mwi.] done in 553.10 s
+
+2018-07-20 17:36:58,699: Fragment [Full model for all countries.] done in 553.10 s
+
+2018-07-20 17:46:03,224: Fragment [Optimizing meta prediction weights for country mwi.] done in 3.66 s
+
+2018-07-20 17:46:03,228: ../submission/submission-test-median-agg-models-2018-07-20 17:46:03.227954.csv
+2018-07-20 17:46:03,228: ../submission/submission-test-mean-agg-models-2018-07-20 17:46:03.227954.csv
